@@ -1,0 +1,84 @@
+nav ul{
+    list-style-type: none;width: 100%;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a{
+    font-weight: bolder;
+    color:brown;
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    text-align: center;
+}
+
+body{
+    background-color:seashell
+}
+
+.box1{margin-left: 200px;
+    width: 800px;
+    height: 600px;
+}
+
+.fun1{
+    float:right;
+}
+
+.fun2{
+    float:left;
+    margin-top: 90px;
+}
+
+h2{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.fun3{
+    float:left;
+}
+
+.fun4{
+    float:right;
+    margin-top: 90px;
+}
+
+.fun5{
+    float:right;
+}
+
+.fun6{
+    float:left;
+    margin-top: 90px;
+}
+
+.fun7{
+    float: left;
+}
+
+.fun8{
+    float:right;
+    margin-top: 90px;
+}
+
+.fun9{
+    float: right;
+}
+
+.fun10{
+    float:left;
+    margin-top: 100px;
+}
